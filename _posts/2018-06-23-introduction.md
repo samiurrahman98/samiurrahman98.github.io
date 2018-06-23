@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An introduction"
+title: "Introduction"
 description: "A brief overview to this blog."
 thumb_image: "documentation/sample-image.jpg"
 tags: [personal, school, work]
