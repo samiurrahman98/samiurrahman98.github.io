@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "iOS 9 Pokédex Application"
-description: "Video demonstration of my Swift 3 Pokédex application."
+title: "Pokédex Mobile Application"
+description: "An overview and video demonstration of an iOS mobile application involving Pokémon."
 thumb_image: "documentation/sample-image.jpg"
-tags: [personal]
+tags: [personal, development]
 ---
 
 {% highlight html %}
@@ -62,13 +62,12 @@ Pokémon model that is populated with the results received from the API upon com
 
 On the primary page, the user is able to view each Pokémon species, and then make a selection. Upon their selection, the user is navigated to a details page, where information regarding the Pokémon is displayed. The application also provides the user with 
 the option to filter their search with a search bar, where they are able to enter the name of the Pokémon species that they would like to learn more about. And finally, there is a music player button to toggle the audio of the application, which you 
-won't be able to hear in the below demonstration because I would like to avoid any potential legal implications (am I just 
-being paranoid?).
+won't be able to hear in the below demonstration because I would like to avoid any potential legal implications.
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/9PqRmGsyU58" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-In the background of the actual demonstration, you'll notice a bunch of warnings that Xcode is notifying me about. Additionally, you should have noticed the placeholder text on the details page for Pikachu - that means something is wrong with the handling of the API response. It worked flawlessly just a few months ago, but actually, this application was developed for iOS 9, and if I'm not mistaken, iOS 12 should be arriving in the next couple of months. Yes, it's severely outdated and requires a ton of refactoring that I hope to get to eventually, but I just wanted to provide readers with a video demonstration of the application and some of the features that it includes.
+In the background of the actual demonstration, you'll notice a bunch of warnings that Xcode is trying to communicate to me. Additionally, you should have noticed the placeholder text on the details page for Pikachu - that means something is wrong with the handling of the API response. It worked flawlessly just a few months ago, but actually, this application was developed for iOS 9, and if I'm not mistaken, iOS 12 should be arriving in the next couple of months. Yes, it's severely outdated and requires a ton of refactoring that I hope to get to eventually, but I just wanted to provide readers with a video demonstration of the application and some of the features that it includes.
 
 And that's all for this blog post folks. Stay tuned for new content, thanks for reading!
