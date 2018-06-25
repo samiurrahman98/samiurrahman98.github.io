@@ -3,7 +3,7 @@
 blog_theme: dark # Or use dark
 name: Welcome
 paginate: 5
-url: # add your site url (format: https://example.com)
+url: https://samiurrahman98.github.io # add your site url (format: https://example.com)
 
 
 # Optional settings
